@@ -1,9 +1,9 @@
 channel: beta
 addons:
   nightscout:
-    repository: marciogranzotto/addon-nightscout
+    repository: CanberraTinkerer/addon-nightscout
     target: nightscout
-    image: marciogranzotto/image-{arch}-addon-nightscout
+    image: CanberraTinkerer/image-{arch}-addon-nightscout
   transmission-nas:
     repository: marciogranzotto/addon-transmission-nas
     target: transmission-nas

@@ -1,6 +1,6 @@
 channel: beta
 addons:
   nightscout:
-    repository: 53645714n/addon-nightscout
+    repository: 53645714n/addon-nightscout_15
     target: nightscout
     image: 53645714n/image-{arch}-addon-nightscout
